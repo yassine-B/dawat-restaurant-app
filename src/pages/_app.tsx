@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import { appWithTranslation } from 'next-i18next';
-import '../styles/GlobalStyles.css';
+import '../Styles/GlobalStyles.css';
 import 'react-responsive-carousel/lib/styles/carousel.min.css';
 
 const App = ({ Component, pageProps }: any) => {
