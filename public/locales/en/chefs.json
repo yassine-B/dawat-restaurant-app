@@ -1,0 +1,25 @@
+{
+  "chefs": {
+    "chefs_title": "our chefs",
+    "chef_1": {
+      "image_description": "Chef_1 image",
+      "title": "Chef Maria Rodriguez",
+      "description": "With over 15 years of culinary experience, Chef Maria brings a passion for Mediterranean cuisine to our kitchen."
+    },
+    "chef_2": {
+      "image_description": "chef_2 image",
+      "title": "Chef Alejandro Santos",
+      "description": "A master of Latin American flavors, Chef Alejandro infuses his dishes with a mix of traditional techniques and modern flair."
+    },
+    "chef_3": {
+      "image_description": "Chef_3 image",
+      "title": "Chef Emily Chang",
+      "description": "Trained in both Eastern and Western culinary traditions, Chef Emily brings a fusion of flavors to our menu."
+    },
+    "chef_4": {
+      "image_description": "Chef_4 image",
+      "title": "Chef Michael Johnson",
+      "description": "With a background in French cuisine , Chef Michael crafts dishes that are both elegant and comforting."
+    }
+  }
+}

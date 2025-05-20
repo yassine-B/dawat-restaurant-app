@@ -1,0 +1,34 @@
+{
+  "hero": {
+    "banner_1": {
+      "title": "Délices Gourmets Vous Attendent",
+      "sub_title": "Savourez les créations exquises de notre chef, mêlant ingrédients frais et expertise culinaire pour une expérience gastronomique inoubliable.",
+      "button_title": "réserver une table"
+    },
+    "banner_2": {
+      "title": "Ambiance Conviviale",
+      "sub_title": "Profitez d'une atmosphère chaleureuse et accueillante, parfaite pour des dîners romantiques, des réunions familiales ou des repas décontractés entre amis.",
+      "button_title": "réserver une table"
+    },
+    "banner_3": {
+      "title": "Mets de Saison",
+      "sub_title": "Savourez le meilleur de chaque saison avec notre menu en rotation, mettant en vedette des ingrédients frais et locaux et des plats créatifs.",
+      "button_title": "réserver une table"
+    },
+    "banner_4": {
+      "title": "Expérience Cocktails Signature",
+      "sub_title": "Découvrez nos cocktails artisanaux, habilement mélangés par nos barmans, offrant des saveurs uniques et des accords parfaits pour chaque plat.",
+      "button_title": "réserver une table"
+    },
+    "banner_5": {
+      "title": "Fraîcheur de la Ferme à la Table",
+      "sub_title": "Découvrez le goût de la cuisine de la ferme à la table, où notre engagement envers l'approvisionnement local garantit les ingrédients les plus frais et les plus fins.",
+      "button_title": "réserver une table"
+    },
+    "banner_6": {
+      "title": "Service Exceptionnel Toujours",
+      "sub_title": "Notre personnel dévoué est là pour fournir un service impeccable, garantissant que votre expérience culinaire soit aussi agréable et mémorable que possible.",
+      "button_title": "réserver une table"
+    }
+  }
+}

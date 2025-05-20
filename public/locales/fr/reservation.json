@@ -1,0 +1,31 @@
+{
+  "reservation": {
+    "reservation_title": "réserver une table",
+    "form_validation": {
+      "required": "ce champ est requis",
+      "guestName": {
+        "placeholder": "Nom de l'invité...",
+        "minLength": "nom trop court"
+      },
+      "phoneNumber": {
+        "placeholder": "Numéro de téléphone...",
+        "pattern": "le numéro de téléphone doit commencer par 06 ou 07 et contenir exactement 10 chiffres"
+      },
+      "reservationTime": {
+        "placeholder": "Heure de réservation...",
+        "validate": "l'heure doit être supérieure à l'heure actuelle pour la date d'aujourd'hui"
+      },
+      "emailAddress": {
+        "placeholder": "Adresse e-mail...",
+        "pattern": "Adresse e-mail invalide"
+      },
+      "reservationDate": {
+        "placeholder": "Date de réservation..."
+      },
+      "numberOfGuests": {
+        "placeholder": "Nombre d'invités...",
+        "min": "la valeur doit être supérieure ou égale à 1"
+      }
+    }
+  }
+}

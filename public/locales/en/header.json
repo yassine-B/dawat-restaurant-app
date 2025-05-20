@@ -1,0 +1,12 @@
+{
+  "header_navigation": {
+    "home": "home",
+    "about": "about",
+    "offers": "offers",
+    "menu": "menu",
+    "chefs": "chefs",
+    "blogs": "blogs",
+    "gallery": "gallery",
+    "contact": "contact"
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "menu": {
+    "menu_title": "today's menu",
+    "menu_buttons": {
+      "all": "all",
+      "lunch": "lunch",
+      "breakfast": "breakfast",
+      "dinner": "dinner",
+      "snacks": "snacks",
+      "coffee": "coffee"
+    },
+    "menu_lunch": {
+      "lunch_1": {
+        "image_description": "menu_1 image",
+        "category": "lunch",
+        "price": "12.99",
+        "title": "Grilled Chicken",
+        "description": "Tender grilled chicken breast served on a bed of crisp romaine lettuce, tossed with classic Caesar dressing, Parmesan cheese, and homemade croutons."
+      },
+      "lunch_2": {
+        "image_description": "menu_1 image",
+        "category": "lunch",
+        "price": "10.99",
+        "title": "Margherita Pizza",
+        "description": "A traditional Italian favorite featuring a thin crust topped with fresh tomatoes, basil, mozzarella cheese, and a drizzle of olive oil."
+      },
+      "lunch_3": {
+        "image_description": "menu_1 image",
+        "category": "lunch",
+        "price": "9.99",
+        "title": "Vegetarian Quinoa Bowl",
+        "description": "Nutritious quinoa mixed with roasted seasonal vegetables, chickpeas, avocado slices, and a zesty lemon tahini dressing."
+      },
+      "lunch_4": {
+        "image_description": "menu_1 image",
+        "category": "lunch",
+        "price": "11.99",
+        "title": "Classic Club Sandwich",
+        "description": "Triple-decker sandwich with layers of roasted turkey, crispy bacon, lettuce, tomato, and mayonnaise on toasted whole wheat bread. Served with a side of fries."
+      },
+      "lunch_5": {
+        "image_description": "menu_1 image",
+        "category": "lunch",
+        "price": "13.99",
+        "title": "Shrimp Tacos",
+        "description": "Three soft corn tortillas filled with grilled shrimp, shredded cabbage, pico de gallo, avocado slices, and a tangy chipotle aioli. served with a side of rice and beans."
+      }
+    },
+    "menu_breakfast": {
+      "breakfast_1": {
+        "image_description": "menu_1 image",
+        "category": "breakfast",
+        "price": "12.99",
+        "title": "Avocado Toast",
+        "description": "Sliced avocado on toasted multigrain bread, topped with cherry tomatoes, feta cheese crumbles, and a sprinkle of everything bagel seasoning."
+      },
+      "breakfast_2": {
+        "image_description": "menu_1 image",
+        "category": "breakfast",
+        "price": "10.99",
+        "title": "Classic Eggs Benedict",
+        "description": "Two poached eggs served on toasted English muffins with Canadian bacon, hollandaise sauce, and a side of breakfast potatoes."
+      },
+      "breakfast_3": {
+        "image_description": "menu_1 image",
+        "category": "breakfast",
+        "price": "9.99",
+        "title": "Blueberry Pancakes",
+        "description": "Fluffy buttermilk pancakes filled with plump blueberries and served with maple syrup and whipped butter."
+      },
+      "breakfast_4": {
+        "image_description": "menu_1 image",
+        "category": "breakfast",
+        "price": "11.99",
+        "title": "Greek Yogurt Parfait",
+        "description": "Creamy Greek yogurt layered with fresh berries, granola, and a drizzle of honey."
+      },
+      "breakfast_5": {
+        "image_description": "menu_1 image",
+        "category": "breakfast",
+        "price": "13.99",
+        "title": "Breakfast Burrito",
+        "description": "A flour tortilla stuffed with scrambled eggs, diced ham, peppers, onions, cheddar cheese, and salsa. Served with a side of sour cream and salsa."
+      }
+    },
+    "menu_dinner": {
+      "dinner_1": {
+        "image_description": "menu_1 image",
+        "category": "dinner",
+        "price": "12.99",
+        "title": "Grilled Salmon with Sauce",
+        "description": "Tender grilled salmon fillet topped with a tangy lemon-dill sauce, served with roasted vegetables and garlic mashed potatoes."
+      },
+      "dinner_2": {
+        "image_description": "menu_1 image",
+        "category": "dinner",
+        "price": "10.99",
+        "title": "Mushroom Risotto",
+        "description": "Creamy Arborio rice cooked with assorted mushrooms, shallots, garlic, white wine, and Parmesan cheese, finished with a drizzle of truffle oil."
+      },
+      "dinner_3": {
+        "image_description": "menu_1 image",
+        "category": "dinner",
+        "price": "9.99",
+        "title": "Steak Frites",
+        "description": "Grilled sirloin steak cooked to your liking, served with crispy seasoned fries and a side of garlic aioli for dipping."
+      },
+      "dinner_4": {
+        "image_description": "menu_1 image",
+        "category": "dinner",
+        "price": "11.99",
+        "title": "Vegetable Stir-Fry",
+        "description": "Fresh mixed vegetables stir-fried in a savory soy ginger sauce, served over steamed jasmine rice."
+      },
+      "dinner_5": {
+        "image_description": "menu_1 image",
+        "category": "dinner",
+        "price": "13.99",
+        "title": "Chicken Alfredo Pasta",
+        "description": "Grilled chicken breast served over fettuccine pasta tossed in a creamy Alfredo sauce with Parmesan cheese and garlic bread on the side."
+      }
+    },
+    "menu_snacks": {
+      "snacks_1": {
+        "image_description": "menu_1 image",
+        "category": "snacks",
+        "price": "12.99",
+        "title": "Caprese Skewers",
+        "description": "Fresh mozzarella balls, cherry tomatoes, and basil leaves skewered together and drizzled with balsamic glaze."
+      },
+      "snacks_2": {
+        "image_description": "menu_1 image",
+        "category": "snacks",
+        "price": "10.99",
+        "title": "Hummus and Veggie Platter",
+        "description": "Creamy hummus served with a variety of fresh vegetables such as carrots, cucumbers, bell peppers, and cherry tomatoes, accompanied by pita bread."
+      },
+      "snacks_3": {
+        "image_description": "menu_1 image",
+        "category": "snacks",
+        "price": "9.99",
+        "title": "Stuffed Jalapeños",
+        "description": "alapeño peppers stuffed with cream cheese and wrapped in crispy bacon, served with a side of ranch dipping sauce."
+      },
+      "snacks_4": {
+        "image_description": "menu_1 image",
+        "category": "snacks",
+        "price": "11.99",
+        "title": "Loaded Nachos",
+        "description": "Crispy tortilla chips topped with melted cheddar cheese, black beans, diced tomatoes, jalapeños, sour cream, and guacamole."
+      },
+      "snacks_5": {
+        "image_description": "menu_1 image",
+        "category": "snacks",
+        "price": "13.99",
+        "title": "Fruit and Cheese Plate",
+        "description": "A selection of seasonal fruits, such as grapes, strawberries, and melon, paired with assorted cheeses and crackers."
+      }
+    },
+    "menu_coffee": {
+      "coffee_1": {
+        "image_description": "menu_1 image",
+        "category": "coffee",
+        "price": "12.99",
+        "title": "Espresso",
+        "description": "A single shot of intense, rich espresso made from freshly ground beans, perfect for a quick caffeine boost"
+      },
+      "coffee_2": {
+        "image_description": "menu_1 image",
+        "category": "coffee",
+        "price": "10.99",
+        "title": "Cappuccino",
+        "description": "A classic Italian coffee made with equal parts espresso, steamed milk, and frothed milk, topped with a sprinkle of cocoa powder."
+      },
+      "coffee_3": {
+        "image_description": "menu_1 image",
+        "category": "coffee",
+        "price": "9.99",
+        "title": "Iced Caramel Macchiato",
+        "description": "A refreshing blend of espresso, milk, and caramel syrup poured over ice, finished with a drizzle of caramel sauce."
+      },
+      "coffee_4": {
+        "image_description": "menu_1 image",
+        "category": "coffee",
+        "price": "11.99",
+        "title": "Mocha Latte",
+        "description": "A smooth and indulgent combination of espresso, steamed milk, and chocolate syrup, topped with whipped cream."
+      },
+      "coffee_5": {
+        "image_description": "menu_1 image",
+        "category": "coffee",
+        "price": "13.99",
+        "title": "Cold Brew",
+        "description": "Smooth and bold, our cold brew coffee is steeped for hours to achieve a rich flavor with a subtle sweetness, served over ice."
+      }
+    }
+  }
+}

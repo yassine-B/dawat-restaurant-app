@@ -1,0 +1,18 @@
+{
+  "blogs": {
+    "blogs_title": "dernieres nouvelles",
+    "comments": "commentaires",
+    "blog_1": {
+      "date": "15 avril 2024",
+      "title": "Nouvelles Spécialités du Chef",
+      "image_description": "Blog_1 image",
+      "description": "Nous sommes ravis de présenter nos prochaines spécialités du chef. Des créations de fruits de mer délicieuses comme les queues de homard grillées au beurre d'ail aux côtes courtes de bœuf braisées à souhait."
+    },
+    "blog_2": {
+      "date": "20 avril 2024",
+      "title": "Rénovation du Restaurant",
+      "image_description": "Blog_2 image",
+      "description": "Nous sommes ravis d'annoncer que les rénovations ont commencé dans notre restaurant ! Notre équipe travaille dur pour transformer notre espace et créer une atmosphère plus accueillante et confortable pour nos clients."
+    }
+  }
+}

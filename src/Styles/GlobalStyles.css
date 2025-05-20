@@ -1,0 +1,153 @@
+:root {
+  --primary-color: #b95f0e;
+  --text-color: #333333;
+  --bg-color: #fff;
+  --scrollbar-track: #b95f0e;
+  --scrollbar-thumb: #333333;
+  --hero-carousel-height: 200px;
+  --offer-carousel-height: 320px;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+@font-face {
+  font-family: 'Roboto';
+  src: url('../../public/Fonts/Roboto-Regular.ttf') format('truetype');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('../../public/Fonts/Roboto-Bold.ttf') format('truetype');
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('../../public/Fonts/OpenSans-Regular.ttf') format('truetype');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('../../public/Fonts/OpenSans-Bold.ttf') format('truetype');
+  font-weight: 700;
+}
+
+/* tailwind styles */
+.transition-item {
+  @apply transition-all ease-in duration-200;
+}
+.card-bg {
+  background-color: #2e2e2e;
+}
+
+.shared-bg-image {
+  background: url('../../public/assets/images/bg/bg-2.jpg');
+  @apply bg-cover bg-no-repeat bg-top object-cover;
+}
+.hero-bg-image {
+  background: url('../../public/assets/images/bg/bg-1.jpg');
+  @apply bg-cover bg-no-repeat bg-center object-cover;
+}
+/* tailwind styles */
+html {
+  background-color: var(--bg-color);
+  transition: background-color 150ms ease;
+}
+.dark {
+  --primary-color: #b95f0e;
+  --text-color: #eaeaea;
+  --bg-color: #1a1a1a;
+}
+p,
+h1 {
+  transition: color 150ms ease;
+}
+
+/* scrollbar styles */
+
+/* WebKit (Chrome, Safari) */
+body::-webkit-scrollbar,
+.scrollbar::-webkit-scrollbar {
+  width: 8px;
+}
+body::-webkit-scrollbar-track,
+.scrollbar::-webkit-scrollbar-track {
+  background: var(--scrollbar-track);
+}
+body::-webkit-scrollbar-thumb,
+.scrollbar::-webkit-scrollbar-thumb {
+  background: var(--scrollbar-thumb);
+  border-radius: 4px;
+  /* rounded corners for the thumb */
+}
+
+/* change the color of the thumb on hover */
+body::-webkit-scrollbar-thumb:hover,
+.scrollbar::-webkit-scrollbar-thumb:hover {
+  background: var(--scrollbar-thumb);
+  opacity: 0.8;
+}
+
+/* change the color of the thumb when dragging */
+body::-webkit-scrollbar-thumb:active,
+.scrollbar::-webkit-scrollbar-thumb:active {
+  background: var(--scrollbar-thumb);
+}
+
+body::-moz-scrollbar-thumb,
+.scrollbar::-moz-scrollbar-thumb {
+  background: var(--scrollbar-thumb);
+}
+
+/* change the color of the thumb on hover in Firefox */
+body::-moz-scrollbar-thumb:hover,
+.scrollbar::-moz-scrollbar-thumb:hover {
+  background: var(--scrollbar-thumb);
+  opacity: 0.8;
+}
+
+/* change the color of the thumb when dragging in Firefox */
+body::-moz-scrollbar-thumb:active,
+.scrollbar::-moz-scrollbar-thumb:active {
+  background: var(--scrollbar-thumb);
+}
+
+/* carousel styles */
+.hero_carousel .carousel-slider {
+  height: var(--hero-carousel-height);
+}
+.offer_carousel .carousel-slider {
+  height: var(--offer-carousel-height);
+}
+@media (min-width: 640px) and (max-width: 768px) {
+  .offer_carousel .carousel-slider {
+    --offer-carousel-height: 340px;
+  }
+}
+@media (min-width: 420px) and (max-width: 640px) {
+  .offer_carousel .carousel-slider {
+    --offer-carousel-height: 470px;
+  }
+}
+/* @media (max-width: 420px) {
+  .offer_carousel .carousel-slider {
+    --offer-carousel-height: 480px;
+  }
+} */
+@media (min-width: 641px) and (max-width: 760px) {
+  .hero_carousel .carousel-slider {
+    --hero-carousel-height: 220px;
+  }
+}
+@media (min-width: 421px) and (max-width: 640px) {
+  .hero_carousel .carousel-slider {
+    --hero-carousel-height: 200px;
+  }
+}

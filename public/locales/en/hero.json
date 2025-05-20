@@ -1,0 +1,34 @@
+{
+  "hero": {
+    "banner_1": {
+      "title": "Gourmet Delights Await",
+      "sub_title": "Indulge in our chef's exquisite creations, blending fresh ingredients and culinary expertise for an unforgettable dining experience.",
+      "button_title": "book a table"
+    },
+    "banner_2": {
+      "title": "Cozy Ambiance Dining",
+      "sub_title": "Enjoy a warm, inviting atmosphere perfect for romantic dinners, family gatherings, or casual meals with friends.",
+      "button_title": "book a table"
+    },
+    "banner_3": {
+      "title": "Seasonal Menu Highlights",
+      "sub_title": "Savor the best of each season with our rotating menu, featuring fresh, locally sourced ingredients and creative dishes.",
+      "button_title": "book a table"
+    },
+    "banner_4": {
+      "title": "Signature Cocktails Experience",
+      "sub_title": "Discover our handcrafted cocktails, expertly mixed by our bartenders, offering unique flavors and perfect pairings for any dish.",
+      "button_title": "book a table"
+    },
+    "banner_5": {
+      "title": "Farm-to-Table Freshness",
+      "sub_title": "Experience the taste of farm-to-table dining, where our commitment to local sourcing ensures the freshest and finest ingredients.",
+      "button_title": "book a table"
+    },
+    "banner_6": {
+      "title": "Exceptional Service Always",
+      "sub_title": "Our dedicated staff is here to provide impeccable service, ensuring your dining experience is as enjoyable and memorable as possible.",
+      "button_title": "book a table"
+    }
+  }
+}

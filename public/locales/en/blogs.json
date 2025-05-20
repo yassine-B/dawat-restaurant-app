@@ -1,0 +1,18 @@
+{
+  "blogs": {
+    "blogs_title": "latest news",
+    "comments": "comments",
+    "blog_1": {
+      "date": "April 15, 2024",
+      "title": "New Chef Specials",
+      "image_description": "Blog_1 image",
+      "description": "We are thrilled to introduce our upcoming chef specials. From delightful seafood creations like grilled lobster tails with garlic butter to mouthwatering slow-cooked beef short ribs."
+    },
+    "blog_2": {
+      "date": "April 20, 2024",
+      "title": "Restaurant Renovation",
+      "image_description": "Blog_2 image",
+      "description": "We're thrilled to announce that renovations have begun at our restaurant! Our team is hard at work transforming our space to create a more inviting and comfortable atmosphere for our guests."
+    }
+  }
+}

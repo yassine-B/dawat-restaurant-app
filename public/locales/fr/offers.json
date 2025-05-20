@@ -1,0 +1,21 @@
+{
+  "offers": {
+    "offers_title": "forfait spécial",
+    "button_title": "commander maintenant",
+    "offer_1": {
+      "title": "Forfait Soirée Romantique",
+      "image_description": "Offer_1 image",
+      "description": "Profitez d'une soirée romantique avec notre Forfait Soirée Romantique. Comprend un repas de trois plats spécialement préparé, et une table confortable pour deux. Parfait pour les anniversaires, les fêtes ou toute occasion digne d'être célébrée."
+    },
+    "offer_2": {
+      "title": "Forfait Festin Familial",
+      "image_description": "Offer_2 image",
+      "description": "Offrez à votre famille une expérience culinaire mémorable avec notre Forfait Festin Familial. Savourez une délicieuse sélection des plats signature de notre chef, comprenant des entrées, des plats principaux, des desserts, conçus pour satisfaire tous les palais."
+    },
+    "offer_3": {
+      "title": "Forfait Célébration",
+      "image_description": "Offer_3 image",
+      "description": "Rendez vos occasions spéciales encore plus mémorables avec notre Forfait Célébration. Que ce soit un anniversaire, une remise de diplôme ou une réunion, laissez-nous nous occuper des détails pendant que vous profitez d'un menu personnalisé."
+    }
+  }
+}

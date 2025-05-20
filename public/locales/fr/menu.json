@@ -1,0 +1,199 @@
+{
+  "menu": {
+    "menu_title": "menu du jour",
+    "menu_buttons": {
+      "all": "tous",
+      "lunch": "déjeuner",
+      "breakfast": "petit-déjeuner",
+      "dinner": "dîner",
+      "snacks": "collations",
+      "coffee": "café"
+    },
+
+    "menu_lunch": {
+      "lunch_1": {
+        "image_description": "menu_1 image",
+        "category": "lunch",
+        "price": "12.99",
+        "title": "Poulet Grillé",
+        "description": "Poitrine de poulet grillée tendre servie sur un lit de laitue romaine croustillante, assaisonnée avec une vinaigrette Caesar classique, du fromage Parmesan et des croûtons faits maison."
+      },
+      "lunch_2": {
+        "image_description": "menu_1 image",
+        "category": "lunch",
+        "price": "10.99",
+        "title": "Pizza Margherita",
+        "description": "Une favorite italienne traditionnelle avec une croûte fine garnie de tomates fraîches, de basilic, de fromage mozzarella et d'un filet d'huile d'olive."
+      },
+      "lunch_3": {
+        "image_description": "menu_1 image",
+        "category": "lunch",
+        "price": "9.99",
+        "title": "Bol de Quinoa Végétarien",
+        "description": "Quinoa nutritif mélangé avec des légumes de saison rôtis, des pois chiches, des tranches d'avocat et une vinaigrette citron-tahini."
+      },
+      "lunch_4": {
+        "image_description": "menu_1 image",
+        "category": "lunch",
+        "price": "11.99",
+        "title": "Sandwich Club Classique",
+        "description": "Sandwich à trois étages avec des couches de dinde rôtie, de bacon croustillant, de laitue, de tomate et de mayonnaise sur du pain de blé entier grillé. Servi avec des frites."
+      },
+      "lunch_5": {
+        "image_description": "menu_1 image",
+        "category": "lunch",
+        "price": "13.99",
+        "title": "Tacos aux Crevettes",
+        "description": "Trois tortillas de maïs souples garnies de crevettes grillées, de chou râpé, de pico de gallo, de tranches d'avocat et d'une sauce aioli au chipotle. Servis avec du riz et des haricots."
+      }
+    },
+    "menu_breakfast": {
+      "breakfast_1": {
+        "image_description": "menu_1 image",
+        "category": "breakfast",
+        "price": "7.99",
+        "title": "Toast à l'Avocat",
+        "description": "Tranches d'avocat sur du pain multigrain grillé, garnies de tomates cerises, de miettes de fromage feta et d'une pincée d'assaisonnement bagel."
+      },
+      "breakfast_2": {
+        "image_description": "menu_1 image",
+        "category": "breakfast",
+        "price": "10.99",
+        "title": "Œufs Bénédicte Classiques",
+        "description": "Deux œufs pochés servis sur des muffins anglais grillés avec du bacon canadien, une sauce hollandaise et un accompagnement de pommes de terre du matin."
+      },
+      "breakfast_3": {
+        "image_description": "menu_1 image",
+        "category": "breakfast",
+        "price": "9.99",
+        "title": "Pancakes aux myrtilles",
+        "description": "Pancakes moelleux au babeurre remplis de myrtilles dodues, servis avec du sirop d'érable et du beurre fouetté."
+      },
+      "breakfast_4": {
+        "image_description": "menu_1 image",
+        "category": "breakfast",
+        "price": "6.99",
+        "title": "Parfait au Yaourt Grec",
+        "description": "Yaourt grec crémeux en couches avec des baies fraîches, du granola et un filet de miel."
+      },
+      "breakfast_5": {
+        "image_description": "menu_1 image",
+        "category": "breakfast",
+        "price": "9.99",
+        "title": "Burrito du Petit Déjeuner",
+        "description": "Une tortilla de farine farcie d'œufs brouillés, de dés de jambon, de poivrons, d'oignons, de fromage cheddar et de salsa. Servi avec une portion de crème aigre et de salsa."
+      }
+    },
+    "menu_dinner": {
+      "dinner_1": {
+        "image_description": "menu_1 image",
+        "category": "dinner",
+        "price": "16.99",
+        "title": "Saumon Grillé avec Sauce",
+        "description": "Filet de saumon grillé tendre garni d'une sauce citron-aneth acidulée, servi avec des légumes rôtis et de la purée de pommes de terre à l'ail."
+      },
+      "dinner_2": {
+        "image_description": "menu_1 image",
+        "category": "dinner",
+        "price": "10.99",
+        "title": "Risotto aux Champignons",
+        "description": "Riz Arborio crémeux cuit avec un assortiment de champignons, d'échalotes, d'ail, de vin blanc et de fromage Parmesan, fini avec un filet d'huile de truffe."
+      },
+      "dinner_3": {
+        "image_description": "menu_1 image",
+        "category": "dinner",
+        "price": "9.99",
+        "title": "Steak Frites",
+        "description": "Steak de faux-filet grillé à votre goût, servi avec des frites assaisonnées croustillantes et une portion de sauce à l'ail pour tremper."
+      },
+      "dinner_4": {
+        "image_description": "menu_1 image",
+        "category": "dinner",
+        "price": "11.99",
+        "title": "Sauté de Légumes",
+        "description": "Mélange de légumes frais sautés dans une sauce soja-gingembre savoureuse, servi sur du riz jasmin vapeur."
+      },
+      "dinner_5": {
+        "image_description": "menu_1 image",
+        "category": "dinner",
+        "price": "13.99",
+        "title": "Pâtes Alfredo au Poulet",
+        "description": "Poitrine de poulet grillée servie sur des pâtes fettuccine en sauce Alfredo crémeuse avec du fromage Parmesan et du pain à l'ail en accompagnement."
+      }
+    },
+    "menu_snacks": {
+      "snacks_1": {
+        "image_description": "menu_1 image",
+        "category": "snacks",
+        "price": "12.99",
+        "title": "Brochettes Caprese",
+        "description": "Boules de mozzarella fraîche, tomates cerises et feuilles de basilic en brochette, arrosées de glaçage balsamique."
+      },
+      "snacks_2": {
+        "image_description": "menu_1 image",
+        "category": "snacks",
+        "price": "10.99",
+        "title": "Assiette de Houmous et Légumes",
+        "description": "Houmous crémeux servi avec une variété de légumes frais tels que des carottes, des concombres, des poivrons et des tomates cerises, accompagné de pain pita."
+      },
+      "snacks_3": {
+        "image_description": "menu_1 image",
+        "category": "snacks",
+        "price": "9.99",
+        "title": "Jalapeños Farcis",
+        "description": "Piments jalapeños farcis de fromage à la crème et enveloppés de bacon croustillant, servis avec une sauce ranch pour tremper."
+      },
+      "snacks_4": {
+        "image_description": "menu_1 image",
+        "category": "snacks",
+        "price": "11.99",
+        "title": "Nachos Garnis",
+        "description": "Chips de tortilla croustillantes garnies de fromage cheddar fondu, de haricots noirs, de tomates en dés, de jalapeños, de crème aigre et de guacamole."
+      },
+      "snacks_5": {
+        "image_description": "menu_1 image",
+        "category": "snacks",
+        "price": "13.99",
+        "title": "Assiette de Fruits et Fromages",
+        "description": "Une sélection de fruits de saison, tels que des raisins, des fraises et du melon, accompagnée d'un assortiment de fromages et de crackers."
+      }
+    },
+    "menu_coffee": {
+      "coffee_1": {
+        "image_description": "menu_1 image",
+        "category": "coffee",
+        "price": "12.99",
+        "title": "Espresso",
+        "description": "Un shot unique d'espresso intense et riche fait à partir de grains fraîchement moulus, parfait pour un coup de boost rapide."
+      },
+      "coffee_2": {
+        "image_description": "menu_1 image",
+        "category": "coffee",
+        "price": "10.99",
+        "title": "Cappuccino",
+        "description": "Un café italien classique fait avec des parts égales d'espresso, de lait chaud et de mousse de lait, garni d'une pincée de poudre de cacao."
+      },
+      "coffee_3": {
+        "image_description": "menu_1 image",
+        "category": "coffee",
+        "price": "9.99",
+        "title": "Macchiato Caramel Glacé",
+        "description": "Un mélange rafraîchissant d'espresso, de lait et de sirop de caramel versé sur de la glace, terminé par un filet de sauce caramel."
+      },
+      "coffee_4": {
+        "image_description": "menu_1 image",
+        "category": "coffee",
+        "price": "11.99",
+        "title": "Latte Mocha",
+        "description": "Une combinaison lisse et indulgente d'espresso, de lait chaud et de sirop de chocolat, garni de crème fouettée."
+      },
+      "coffee_5": {
+        "image_description": "menu_1 image",
+        "category": "coffee",
+        "price": "13.99",
+        "title": "Cold Brew",
+        "description": "Lisse et audacieux, notre café infusé à froid est infusé pendant des heures pour obtenir une saveur riche avec une douceur subtile, servi sur de la glace."
+      }
+    }
+  }
+}

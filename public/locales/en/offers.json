@@ -1,0 +1,21 @@
+{
+  "offers": {
+    "offers_title": "special package",
+    "button_title": "order now",
+    "offer_1": {
+      "title": "Date Night Package",
+      "image_description": "Offer_1 image",
+      "description": "Indulge in a romantic evening with our Date Night Package. Includes a specially curated three-course meal, and a cozy table setting for two. Perfect for anniversaries, birthdays, or any occasion worth celebrating ."
+    },
+    "offer_2": {
+      "title": "Family Feast Package",
+      "image_description": "Offer_2 image",
+      "description": "Treat your family to a memorable dining experience with our Family Feast Package. Enjoy a delicious spread of our chef's signature dishes,including appetizers, entrees, desserts, designed to satisfy every palate."
+    },
+    "offer_3": {
+      "title": "Celebration Package",
+      "image_description": "Offer_3 image",
+      "description": "Make your special occasions even more memorable with our Celebration Package. Whether it's a birthday, graduation, or reunion, let us take care of the details while you enjoy a custom-designed menu."
+    }
+  }
+}

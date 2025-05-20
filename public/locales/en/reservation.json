@@ -1,0 +1,35 @@
+{
+  "reservation": {
+    "reservation_title": "book a table",
+
+    "form_validation": {
+      "required": "this field is required",
+      "guestName": {
+        "placeholder": "Guest Name...",
+        "minLength": "short name"
+      },
+
+      "phoneNumber": {
+        "placeholder": "Phone number...",
+        "pattern": "phone number must start with 06 or 07 and be exactly 10 digits"
+      },
+
+      "reservationTime": {
+        "placeholder": "Reservation Time...",
+        "validate": "time must be greater than the current time for today's date"
+      },
+      "emailAddress": {
+        "placeholder": "Email Address...",
+        "pattern": "Invalid email address"
+      },
+      "reservationDate": {
+        "placeholder": "Reservation Date..."
+      },
+
+      "numberOfGuests": {
+        "placeholder": "Number Of Guest...",
+        "min": "value must be 1 or greater"
+      }
+    }
+  }
+}
